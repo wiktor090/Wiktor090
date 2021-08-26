@@ -3,6 +3,7 @@
 - 👀 I’m interested in C# & JavaScript
 - 🌱 I’m currently learning C#, & in the future I wan't to learn JavaScript
 
+
 - 💬 My discord serwer: https://discord.gg/n4t3Q4hwHK
 - 📫 Discord contact: Wiktor090#0001
 
