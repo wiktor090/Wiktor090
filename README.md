@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Wiktor
 - 🔭 I’m currently working on LAN Messenger 
 - 👀 I’m interested in C# & JavaScript
-- 🌱 I’m currently learning C#, & in the future I wan't to learn JavaScript
+- 🌱 I’m currently learning C# And JS
 
 
 - 💬 My discord serwer: https://discord.gg/n4t3Q4hwHK
