@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Wiktor
-- 🔭 I’m currently working on LAN Messenger 
+
 - 👀 I’m interested in C# & JavaScript
 - 🌱 I’m currently learning C# And JS
 
