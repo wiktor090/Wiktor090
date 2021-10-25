@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Wiktor
 
-- 👀 I’m interested in C# & JavaScript
+- 👀 I’m interested in C#, JavaScript & HTML
 - 🌱 I’m currently learning C# And JS
 
 
