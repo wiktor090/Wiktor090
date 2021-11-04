@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
 <h3 align="center">Welcome to my github!</h3>
-/></a> </p>
+</a> </p>
 
 - 🔭 I’m currently working on **ASP.NET Commiunicator & Discord.Js bot**
 
