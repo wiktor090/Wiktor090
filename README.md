@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C#, JavaScript, HTML**
 
-- 📫 Discord contact **Wiktor090#0001**
+- 📫 Discord contact **090#0001**
 
 - ⚡ Fun fact **I am 13**
 
