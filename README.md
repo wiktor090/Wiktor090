@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ASP.NET Commiunicator & Discord.JS bot**
 
-- 🌱 I’m currently learning **C#, JavaScript, HTML**
+- 🌱 I’m currently learning **C#, JavaScript, HTML, CSS**
 
 - 📫 Discord contact **090#2144**
 
