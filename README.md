@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my github!</h3>
 </a> </p>
 
-- 🔭 I’m currently working on **ASP.NET Commiunicator & Discord.JS bot**
+- 🔭 I’m currently working on **ASP.NET Commiunicator**
 
 - 🌱 I’m currently learning **C#, JavaScript, HTML, CSS**
 
