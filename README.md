@@ -8,7 +8,7 @@
 
 - 📫 Discord contact **090#2144**
 
-- ⚡ Fun fact **I am 14**
+- 🚴 Mountain Biker
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
